@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src"
+, "src/Redux/pokemon.js"  ],
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}
